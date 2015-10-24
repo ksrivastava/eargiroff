@@ -1,0 +1,5 @@
+#!/bin/bash
+./rename illustrations
+./rename printmaking
+./rename commissions
+./rename paintings

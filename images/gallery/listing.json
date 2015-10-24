@@ -1,0 +1,391 @@
+{
+   "design":[
+      {
+         "title":"How Am I Feeling? (Wireframe)",
+         "file":"emotion_sketches.jpg",
+         "year":"2015",
+         "medium":"Illustrator"
+      },
+      {
+         "title":"How Am I Feeling? (App)",
+         "file":"emotions_app.pdf",
+         "year":"2015",
+         "medium":"Illustrator"
+      },
+      {
+         "title":"Fine Art Selfie (Wireframe)",
+         "file":"fineart_wireframe.jpg",
+         "year":"2015",
+         "medium":"Illustrator"
+      },
+      {
+         "title":"Fine Art Selfie (App)",
+         "file":"fineart_app.pdf",
+         "year":"2015",
+         "medium":"Illustrator"
+      },
+      {
+         "title":"Postage Stamp Design",
+         "file":"stamp.jpg",
+         "year":"2013",
+         "medium":"Mixed media"
+      },
+      {
+         "title":"Evolution Flyer Front",
+         "file":"evolution_flyer_front.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Evolution Flyer Back",
+         "file":"evolution_flyer_back.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Evolution Poster",
+         "file":"evolution_poster.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Fern Symbols",
+         "file":"ferns_symbols.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Flower symbols",
+         "file":"flowers_symbols.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Moss Symbols",
+         "file":"moss_symbols.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Pinecone Symbols",
+         "file":"pinecones_symbols.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Giraffe",
+         "file":"giraffe.jpg",
+         "year":"2015",
+         "medium":"digital and drawing"
+      },
+      {
+         "title":"Lion",
+         "file":"lion.jpg",
+         "year":"2015",
+         "medium":"digital and drawing"
+      },
+      {
+         "title":"Super-C",
+         "file":"superc.jpg",
+         "year":"2015",
+         "medium":"digital and drawing"
+      },
+      {
+         "title":"Tree Comic",
+         "file":"tree_comic.jpg",
+         "year":"2015",
+         "medium":"digital and drawing"
+      }
+   ],
+   "paintings":[
+      {
+         "title":"Sleeping Figure",
+         "file":"painting_figure_objective.jpg",
+         "year":"2013",
+         "medium":"Oil on canvas"
+      },
+      {
+         "title":"Seated Figure",
+         "file":"painting_figure1.jpg",
+         "year":"2013",
+         "medium":"Oil on canvas"
+      },
+      {
+         "title":"Portrait",
+         "file":"portrait.jpg",
+         "year":"2013",
+         "medium":"Oil on canvas board"
+      },
+      {
+         "title":"Pot",
+         "file":"pot.jpg",
+         "year":"2013",
+         "medium":"Oil on canvas board"
+      },
+      {
+         "title":"Lake Serene",
+         "file":"lake_serene.jpg",
+         "year":"2015",
+         "medium":"Acrylic on canvas"
+      },
+      {
+         "title":"Lake Serene (side)",
+         "file":"lake_serene_side.jpg",
+         "year":"2015",
+         "medium":"Acrylic on canvas"
+      },
+      {
+         "title":"Lake Serene Mossy Tree",
+         "file":"lake_serene_mossy_tree.jpg",
+         "year":"2015",
+         "medium":"Watercolor & pen"
+      },
+      {
+         "title":"Chirico Trail",
+         "file":"watercolor_chiricotrail.jpg",
+         "year":"2015",
+         "medium":"digital and drawing"
+      }
+   ],
+   "illustrations":[
+      {
+         "title":"Creative Egg",
+         "file":"creative_egg.jpg",
+         "year":"2013",
+         "medium":"Mixed media"
+      },
+      {
+         "title":"Phone Booth",
+         "file":"phonebooth.jpg",
+         "year":"2009",
+         "medium":"Colored pencil"
+      },
+      {
+         "title":"Marbles",
+         "file":"marbles.jpg",
+         "year":"2008",
+         "medium":"Colored pencil"
+      },
+      {
+         "title":"La Specola Tiger",
+         "file":"la_specola.jpg",
+         "year":"2013",
+         "medium":"Pen and ink"
+      },
+      {
+         "title":"Boboli Tree",
+         "file":"boboli.jpg",
+         "year":"2013",
+         "medium":"Pen and ink"
+      },
+      {
+         "title":"The Arno",
+         "file":"arno.jpg",
+         "year":"2013",
+         "medium":"Mixed media"
+      },
+      {
+         "title":"The Apartment",
+         "file":"apartment.jpg",
+         "year":"2013",
+         "medium":"Mixed media"
+      },
+      {
+         "title":"Firenze",
+         "file":"drawing_michelangelo.jpg",
+         "year":"2013",
+         "medium":"Mixed media"
+      },
+      {
+         "title":"Figure",
+         "file":"drawing_figure_reworked.jpg",
+         "year":"2011",
+         "medium":"Graphite and charcoal"
+      },
+      {
+         "title":"Oceano",
+         "file":"bargello.jpg",
+         "year":"2013",
+         "medium":"Graphite"
+      },
+      {
+         "title":"Gesture",
+         "file":"gesture.jpg",
+         "year":"2011",
+         "medium":"Graphite"
+      },
+      {
+         "title":"Penitent Magdalene",
+         "file":"drawing_accademia.jpg",
+         "year":"2013",
+         "medium":"Graphite"
+      },
+      {
+         "title":"Roman Horsehead",
+         "file":"horsehead.jpg",
+         "year":"2013",
+         "medium":"Graphite"
+      },
+      {
+         "title":"Cow Vertebrae",
+         "file":"cow_vertebrae.jpg",
+         "year":"2013",
+         "medium":"Graphite"
+      },
+      {
+         "title":"Frat House Fuel Cell",
+         "file":"frat_fuel_cover.jpg",
+         "year":"2014",
+         "medium":"digital and drawing"
+      },
+      {
+         "title":"Frat House Fuel Cell pg 1",
+         "file":"frat_fuel_1.jpg",
+         "year":"2014",
+         "medium":"digital and drawing"
+      },
+      {
+         "title":"Frat House Fuel Cell pg 2",
+         "file":"frat_fuel_2.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Frat House Fuel Cell pg 3",
+         "file":"frat_fuel_3.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Frat House Fuel Cell pg 4",
+         "file":"frat_fuel_4.jpg",
+         "year":"2014",
+         "medium":"digital"
+      }
+   ],
+   "printmaking":[
+      {
+         "title":"Desert",
+         "file":"desert.jpg",
+         "year":"2013",
+         "medium":"Linoleum block print"
+      },
+      {
+         "title":"The Weight She Carries",
+         "file":"the_weight_she_carries.jpg",
+         "year":"2013",
+         "medium":"Dry-point, etching and aquatint print"
+      },
+      {
+         "title":"Factory Man",
+         "file":"factory_man.jpg",
+         "year":"2012",
+         "medium":"Linoleum block print"
+      },
+      {
+         "title":"Factory Girl",
+         "file":"factory_girl.jpg",
+         "year":"2012",
+         "medium":"Screen print"
+      },
+      {
+         "title":"Night Harvest",
+         "file":"harvest_night.jpg",
+         "year":"2013",
+         "medium":"Woodblock reduction print"
+      },
+      {
+         "title":"Day Harvest",
+         "file":"harvest_day.jpg",
+         "year":"2013",
+         "medium":"Woodblock reduction print"
+      }
+   ],
+   "commissions":[
+      {
+         "title":"Portrait One",
+         "file":"1.jpg",
+         "year":"2012",
+         "medium":"Acrylic and pastel on canvas"
+      },
+      {
+         "title":"Portrait Two",
+         "file":"2.jpg",
+         "year":"2008",
+         "medium":"Colored pencil"
+      },
+      {
+         "title":"Students and Staff",
+         "file":"3.jpg",
+         "year":"2013",
+         "medium":"Oil on canvas"
+      },
+      {
+         "title":"Keebler",
+         "file":"4.jpg",
+         "year":"2008",
+         "medium":"Colored pencil"
+      },
+      {
+         "title":"Thelonious Monk (Photo by Herb Snitzer)",
+         "file":"thelonius_monk.jpg",
+         "year":"2009",
+         "medium":"Charcoal"
+      },
+      {
+         "title":"Miles Davis (Photo by Anton Corbijn)",
+         "file":"miles_davis.jpg",
+         "year":"2009",
+         "medium":"Charcoal"
+      },
+      {
+         "title":"Billie Holiday (Photo by William P Gottlieb)",
+         "file":"billie_holiday.jpg",
+         "year":"2009",
+         "medium":"Charcoal"
+      },
+      {
+         "title":"Dizzy Gillespie (Photo by Edward Hopper)",
+         "file":"dizzy_gillespie.jpg",
+         "year":"2009",
+         "medium":"Charcoal"
+      }
+   ],
+   "animations":[
+      {
+         "title":"Gaia",
+         "file":"http://vimeo.com/93189299",
+         "thumbs":"http://i.vimeocdn.com/video/473175808_295x166.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"The Creation of Things",
+         "file":"http://vimeo.com/86256834",
+         "thumbs":"http://i.vimeocdn.com/video/463862208_295x166.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Singing in the Rain Rotoscope",
+         "file":"http://vimeo.com/85360509",
+         "thumbs":"http://i.vimeocdn.com/video/462633543_295x166.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"The Hairy Nomad",
+         "file":"http://vimeo.com/33704228",
+         "thumbs":"http://i.vimeocdn.com/video/228971732_295x166.jpg",
+         "year":"2014",
+         "medium":"digital"
+      },
+      {
+         "title":"Walrus",
+         "file":"http://vimeo.com/88585217",
+         "thumbs":"http://i.vimeocdn.com/video/467088775_295x166.jpg",
+         "year":"2014",
+         "medium":"digital"
+      }
+   ]
+}

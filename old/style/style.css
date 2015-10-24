@@ -1,0 +1,189 @@
+.bg
+{
+	background: url(../images/background/drawing_michelangelo.jpg) no-repeat center;
+	background-size: cover;
+}
+
+#title
+{
+	font-family: 'Mate SC', serif;
+	color: #666666;
+	font-size: 75px;
+}
+
+/* STRUCTURE */
+
+html
+{
+	height: 100%;
+}
+
+#container
+{	
+	min-height: 100%;
+	margin: 20px;
+}
+
+#content
+{
+	width: 75%;
+}
+
+#text
+{
+	font-weight: 530;
+	font-size: 16px;
+	line-height: 2;
+	font-family: 'Gill Sans', serif;
+}
+
+#aboutpic
+{
+	height: 500px;
+	/*position: fixed;*/
+}
+
+/* LOGO */
+
+#logo
+{
+	margin-bottom: -30px;
+}
+
+
+/* GALLERY */
+
+.image-div
+{
+	display: inline-block;
+	margin: 20px;
+}
+
+.image
+{	
+	vertical-align: middle;
+}
+
+.img-title
+{	
+	background: #333333;
+	color: white;
+	text-align: center;
+	font-family: 'Gill Sans', serif;
+	font-size: 12px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+.scaled
+{
+	
+}
+
+
+/* SIDEBAR */
+
+#sidebar
+{
+	position:fixed;
+   	top:0;
+   	right:0;
+   	height: 100%;
+   	width: 25%;
+   	z-index: 998;
+}
+
+.header
+{
+	margin: 50px;
+	margin-top: 10px;
+	z-index: 1;
+	padding-right: 100px;
+	overflow: scroll;
+	
+}
+
+#navlinks
+{	
+	font-family: 'Mate SC', serif;
+	color: #666666;
+	font-size: 18px;
+	list-style-type: none;
+	padding:0; 
+	margin:0;
+	line-height: 3;
+}
+
+#portfoliolinks
+{	
+	font-size: 16px;
+	list-style-type: none;
+	line-height: 2;
+	margin-top:-10;
+}
+
+
+#blurb
+{	
+	margin: 50px;
+	margin-bottom: 10px;
+	height: 45%;
+	font-weight: 530;
+	font-size: 14px;
+	line-height: 2;
+	font-family: 'Gill Sans', serif;
+	z-index: 1;
+	overflow: scroll;
+}
+
+/* FOOTER */
+
+.footer 
+{
+	font-family: 'Gill Sans', serif;
+	position:bottom;
+	padding: 4px;
+	padding-bottom: 8px;
+	font-size: 10px;
+	width: 100%;
+	text-align: center;
+	color: #666666;
+	opacity: 0.7;
+}
+
+/* ATTRIBUTES */
+
+.hidden 
+{
+	visibility: hidden;
+}
+
+.no-display
+{
+	display: none;
+}
+.no-background 
+{
+	background: none;
+}
+
+.grey-background 
+{
+	background: rgba(153, 153, 153, 0.3);
+}
+
+.leftdiv
+{	
+	float: left;
+	position: absolute;
+	width: 400px;
+	padding: 30;
+}
+
+.rightdiv
+{	
+	float: right;
+	margin-right: 20px;
+}
+

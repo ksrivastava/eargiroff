@@ -1,0 +1,17 @@
+#!/bin/bash
+P="$1/images/"
+FILES="$P*.jpg"
+for f in $FILES
+do
+	out=$(echo $f | awk '{print substr($0, match($0, "_")+1)}')
+	mv $f "$P$out"
+done
+
+
+P="$1/thumbs/"
+FILES="$P*.jpg"
+for f in $FILES
+do
+	out=$(echo $f | awk '{print substr($0, match($0, "_")+1)}')
+	mv $f "$P$out"
+done

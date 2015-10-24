@@ -1,0 +1,5 @@
+#!/bin/bash
+./check_names illustrations
+./check_names printmaking
+./check_names commissions
+./check_names paintings

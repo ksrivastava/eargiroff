@@ -1,0 +1,264 @@
+{
+    "illustrations":  [
+        {
+            "title": "Creative Egg",
+            "file": "creative_egg.jpg", 
+            "year": "2013", 
+            "medium": "Mixed media"
+        },
+        
+        {
+            "title": "Phone Booth",
+            "file": "phonebooth.jpg",
+            "year": "2009", 
+            "medium": "Colored pencil"
+        } ,
+        
+        {
+            "title": "Thelonious Monk (Photo by Herb Snitzer)",
+            "file": "thelonius_monk.jpg",
+            "year": "2009",
+            "medium": "Charcoal"
+        } ,
+        
+        {
+            "title": "Marbles", 
+            "file": "marbles.jpg", 
+            "year": "2008", 
+            "medium": "Colored pencil"
+        } ,
+
+        {
+            "title": "La Specola Tiger",
+            "file":  "la_specola.jpg",
+            "year": "2013", 
+            "medium": "Pen and ink"
+        } ,
+        
+        {
+            "title": "Boboli Tree",
+            "file": "boboli.jpg", 
+            "year": "2013", 
+            "medium": "Pen and ink"
+        } ,
+
+        {
+            "title": "The Arno",
+            "file": "arno.jpg", 
+            "year": "2013", 
+            "medium": "Mixed media"
+        } ,
+        
+        {
+            "title": "The Apartment",
+            "file": "apartment.jpg",
+            "year": "2013", 
+            "medium": "Mixed media"
+        } ,
+            
+        {
+            "title": "Firenze",
+            "file": "drawing_michelangelo.jpg", 
+            "year": "2013", 
+            "medium": "Mixed media"
+        } ,
+        
+        {
+            "title": "Figure",
+            "file": "drawing_figure_reworked.jpg",
+            "year": "2011", 
+            "medium": "Graphite and charcoal"
+        } ,
+        
+        {
+            "title": "Oceano",
+            "file": "bargello.jpg", 
+            "year": "2013", 
+            "medium": "Graphite"
+        } ,
+
+        {
+            "title": "Gesture",
+            "file": "gesture.jpg",
+            "year": "2011", 
+            "medium": "Graphite"
+        } ,
+        
+        {
+            "title": "Penitent Magdalene",
+            "file": "drawing_accademia.jpg", 
+            "year": "2013",
+            "medium": "Graphite"
+            
+        } ,
+
+        {
+            "title": "Roman Horsehead", 
+            "file": "horsehead.jpg",
+            "year": "2013",
+            "medium": "Graphite"
+        } ,
+
+        {
+            "title": "Glass Ball",
+            "file": "glassball.jpg",
+            "year": "2011",
+            "medium": "Graphite"
+        } ,
+        
+        {
+            "title": "Cow Vertebrae",
+            "file": "cow_vertebrae.jpg",
+            "year": "2013",
+            "medium": "Graphite"
+        } ,
+        
+        {
+            "title": "Postage Stamp Design", 
+            "file": "stamp.jpg", 
+            "year": "2013", 
+            "medium": "Mixed media"
+        }
+
+    ] ,
+
+    "printmaking": [
+        {
+            "title": "Desert",
+            "file": "desert.jpg",
+            "year": "2013", 
+            "medium": "Linoleum block print"
+        } ,
+        
+        {
+            "title": "The Weight She Carries", 
+            "file": "the_weight_she_carries.jpg",
+            "year": "2013", 
+            "medium": "Dry-point, etching and aquatint print"
+        } ,
+
+        {
+            "title": "Factory Man", 
+            "file": "factory_man.jpg", 
+            "year": "2012", 
+            "medium": "Linoleum block print"
+        } ,
+        
+        {
+            "title": "Factory Girl",
+            "file": "factory_girl.jpg", 
+            "year": "2012",
+            "medium": "Screen print"
+            
+        } ,
+        
+        {
+            "title": "Night Harvest",
+            "file": "harvest_night.jpg",
+            "year": "2013", 
+            "medium": "Woodblock reduction print"
+        } ,
+        
+        {   
+            "title": "Day Harvest", 
+            "file": "harvest_day.jpg", 
+            "year": "2013", 
+            "medium": "Woodblock reduction print"
+        }
+    ] ,
+        
+    "paintings": [
+        {
+            "title": "Sleeping Figure", 
+            "file": "painting_figure_objective.jpg", 
+            "year": "2013", 
+            "medium": "Oil on canvas"
+        },
+        
+        {
+            "title": "Seated Figure", 
+            "file": "painting_figure1.jpg", 
+            "year": "2013", 
+            "medium": "Oil on canvas"
+        },
+
+        {
+            "title": "Portrait",
+            "file": "portrait.jpg", 
+            "year": "2013", 
+            "medium": "Oil on canvas board"
+        },
+
+        {
+            "title": "Pot", 
+            "file": "pot.jpg", 
+            "year": "2013", 
+            "medium": "Oil on canvas board"
+        },
+        
+        {
+            "title": "Untitled", 
+            "file": "painting_abstract.jpg", 
+            "year": "2012", 
+            "medium": "Acrylic on canvas"
+        }
+    ] ,
+
+    "commissions": [
+        {
+            "title": "Portrait One",
+            "file": "1.jpg", 
+            "year": "2012", 
+            "medium": "Acrylic and pastel on canvas"
+        },
+
+        {
+            "title": "Portrait Two", 
+            "file": "2.jpg", 
+            "year": "2008", 
+            "medium": "Colored pencil"
+        },
+        
+        {
+            "title": "Students and Staff",
+            "file": "3.jpg", 
+            "year": "2013", 
+            "medium": "Oil on canvas"
+        },
+            
+        {
+            "title": "Keebler", 
+            "file": "4.jpg",
+            "year": "2008", 
+            "medium": "Colored pencil"
+        },
+        
+        {
+            "title": "Thelonious Monk (Photo by Herb Snitzer)",
+            "file": "thelonius_monk.jpg", 
+            "year": "2009", 
+            "medium": "Charcoal"
+        } , 
+            
+        {
+            "title": "Miles Davis (Photo by Anton Corbijn)", 
+            "file": "miles_davis.jpg", 
+            "year": "2009", 
+            "medium": "Charcoal"
+        },
+
+        {
+            "title": "Billie Holiday (Photo by William P Gottlieb)", 
+            "file": "billie_holiday.jpg", 
+            "year": "2009", 
+            "medium": "Charcoal"
+        } , 
+
+        {
+            "title": "Dizzy Gillespie (Photo by Edward Hopper)", 
+            "file": "dizzy_gillespie.jpg", 
+            "year": "2009", 
+            "medium": "Charcoal"
+        }
+    ]
+}

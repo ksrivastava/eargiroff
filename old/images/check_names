@@ -1,0 +1,5 @@
+#!/bin/bash
+ls $1/images > out1
+ls $1/thumbs > out2
+diff out1 out2
+rm out1 out2
